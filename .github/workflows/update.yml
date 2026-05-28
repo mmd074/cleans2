@@ -1,0 +1,43 @@
+name: Parse IP and Port
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: '0 * * * *'   # هر 1 ساعت
+
+jobs:
+  parse:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run parser
+        run: python parse_nodes.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add nodes.txt
+
+          if git diff --staged --quiet; then
+            echo "No changes"
+          else
+            git commit -m "Update nodes.txt"
+            git push
+          fi
