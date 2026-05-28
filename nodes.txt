@@ -1,0 +1,150 @@
+143.244.128.205:2053#🇮🇳IN_Digital Ocean
+194.0.194.145:443#🇱🇹LT_Serverio technologijos MB
+45.144.48.192:2053#🇵🇱PL_Newserverlife
+62.72.163.177:886#🇭🇰HK_Wap.ac
+45.95.232.209:2053#🇨🇭CH_Global Connectivity Solutions Llp
+106.240.106.61:13783#🇰🇷KR_LG Uplus
+167.179.27.92:443#🇺🇸US_Aryaka Networks
+178.62.225.210:18175#🇳🇱NL_Digital Ocean
+45.151.133.125:16478#🇺🇸US_Spartan Host
+82.115.7.15:6000#🇳🇱NL_Sia Veesp
+152.67.211.114:58337#🇰🇷KR_Oracle Cloud
+85.192.56.246:2053#🇷🇺RU_Aeza Group
+77.221.139.230:2053#🇸🇪SE_Aeza International
+147.45.71.180:2053#🇦🇹AT_Aeza International
+91.103.252.162:443#🇳🇱NL_Aeza International
+80.211.249.87:8443#🇵🇱PL_Aruba Networks
+92.118.8.22:443#🇩🇪DE_First Server
+109.120.157.103:433#🇸🇪SE_Aeza International
+217.196.98.53:8443#🇷🇺RU_Aeza International
+8.217.45.219:18251#🇭🇰HK_Alibaba
+194.76.173.39:2053#🇩🇪DE_OVHcloud
+185.105.118.135:2053#🇫🇮FI_Ihor-hosting llc
+193.233.115.208:2053#🇷🇺RU_Aeza International
+45.151.62.156:8443#🇷🇺RU_Global Internet Solutions
+146.103.49.103:2053#🇫🇷FR_OVHcloud
+51.68.163.140:2053#🇫🇷FR_OVHcloud
+74.48.100.162:26633#🇺🇸US_Multacom Corporation
+191.96.153.14:2053#🇫🇷FR_OVHcloud
+129.151.204.91:443#🇸🇪SE_Oracle Cloud
+5.187.7.200:21821#🇩🇪DE_Fornex Hosting S.L.
+185.219.220.197:443#🇩🇪DE_servinga
+45.144.48.158:2053#🇵🇱PL_Newserverlife
+45.76.198.248:443#🇯🇵JP_Vultr
+192.236.249.110:443#🇺🇸US_Hostwinds LLC.
+85.198.109.16:443#🇷🇺RU_Hosting technology
+144.24.84.212:49888#🇰🇷KR_Oracle Cloud
+45.144.137.55:17621#🇭🇰HK_Lucidacloud
+23.94.59.154:13560#🇺🇸US_Cloudflare Warp
+135.181.195.253:8081#🇫🇮FI_Hetzner Online
+5.75.208.83:33950#🇩🇪DE_Hetzner Online
+14.55.223.70:50000#🇰🇷KR_KT
+103.102.231.50:2053#🇫🇷FR_OVHcloud
+185.125.217.180:8443#🇷🇺RU_I-servers
+162.19.252.123:2053#🇫🇷FR_OVHcloud
+20.224.196.6:37983#🇳🇱NL_Microsoft Azure
+45.82.14.221:443#🇷🇺RU_TimeWeb
+45.67.34.89:8443#🇷🇴RO_Stark Industries Solutions
+80.76.32.54:443#🇩🇪DE_First Server
+3.24.174.233:443#🇦🇺AU_Amazon.com
+104.234.50.193:2053#🇺🇸US_OVHcloud
+188.245.145.207:2083#🇩🇪DE_Hetzner Online
+124.144.137.154:13000#🇯🇵JP_J:COM
+5.252.22.124:23352#🇩🇪DE_PQ HOSTING S.R.L
+109.120.176.116:443#🇩🇪DE_Aeza International
+146.0.73.202:443#🇳🇱NL_Hostkey
+142.171.38.53:2095#🇺🇸US_Multacom Corporation
+194.76.173.176:2053#🇩🇪DE_OVHcloud
+139.28.221.213:48004#🇫🇮FI_I-servers
+188.245.74.27:44918#🇩🇪DE_Hetzner Online
+46.17.102.9:443#🇳🇱NL_Hostkey
+77.221.141.222:443#🇸🇪SE_Aeza International
+132.226.8.189:18104#🇯🇵JP_Oracle Cloud
+140.83.83.229:14829#🇯🇵JP_Oracle Cloud
+51.178.190.164:17984#🇫🇷FR_OVHcloud
+59.26.30.111:17682#🇰🇷KR_KT
+168.138.46.115:43138#🇯🇵JP_Oracle Cloud
+57.128.110.184:8080#🇫🇷FR_OVHcloud
+37.1.206.30:443#🇳🇱NL_Scalaxy
+188.64.15.182:8443#🇱🇻LV_Sia Veesp
+5.144.181.109:2053#🇬🇧GB_OVHcloud
+163.5.207.124:443#🇳🇱NL_SERVA ONE LTD
+94.23.167.32:8443#🇫🇷FR_OVHcloud
+195.135.252.36:2053#🇱🇻LV_Sia Veesp
+86.38.156.224:2053#🇩🇪DE_OVHcloud
+77.91.87.24:2052#🇸🇪SE_Aeza International
+135.181.151.136:2053#🇫🇮FI_Hetzner Online
+107.172.103.195:16086#🇺🇸US_ColoCrossing
+77.232.142.199:2053#🇸🇪SE_Aeza International
+141.94.205.248:8443#🇫🇷FR_OVHcloud
+104.233.185.39:14685#🇺🇸US_Peg Tech
+213.159.68.96:2053#🇲🇩MD_Stark Industries Solutions
+1.177.81.20:16349#🇰🇷KR_LG HelloVision Corp.
+121.162.197.175:38606#🇰🇷KR_KT
+188.253.16.238:8443#🇱🇻LV_Sia Veesp
+77.83.246.87:2053#🇵🇱PL_Global Connectivity Solutions Llp
+51.178.83.212:8443#🇫🇷FR_OVHcloud
+141.94.204.167:8443#🇫🇷FR_OVHcloud
+89.110.91.33:8443#🇷🇺RU_Hosting technology
+93.113.171.95:443#🇳🇱NL_Baxet Group Inc.
+89.150.35.129:443#🇳🇱NL_Clodo Cloud Service Co.
+85.192.60.249:2053#🇳🇱NL_Aeza International
+188.165.168.217:2087#🇫🇷FR_OVHcloud
+38.180.93.151:8443#🇫🇷FR_M247 Europe
+103.215.218.33:8080#🇹🇷TR_G-Core Labs SA
+45.67.34.74:2053#🇷🇴RO_Stark Industries Solutions
+5.182.86.150:35221#🇳🇱NL_Aeza International
+95.164.23.71:443#🇭🇺HU_Stark Industries Solutions
+154.55.138.210:20015#🇺🇸US_Zillion-network
+87.248.155.26:41669#🇫🇷FR_OVHcloud
+45.8.146.85:23352#🇺🇸US_PQ HOSTING S.R.L
+94.23.74.37:8443#🇫🇷FR_OVHcloud
+147.45.69.196:2053#🇳🇱NL_Aeza International
+45.82.253.187:8443#🇪🇪EE_PQ HOSTING S.R.L
+176.124.204.224:2053#🇩🇪DE_Aeza International
+191.96.153.5:8443#🇫🇷FR_OVHcloud
+65.20.74.136:2053#🇮🇳IN_Vultr
+195.135.254.166:2053#🇱🇻LV_Sia Veesp
+51.38.226.4:8443#🇫🇷FR_OVHcloud
+65.49.215.100:36905#🇺🇸US_IT7 Networks
+205.252.117.138:8090#🇺🇸US_PCCW Global
+147.45.114.116:443#🇳🇱NL_Individual Entrepreneur Anton Levin
+65.49.215.100:23596#🇺🇸US_IT7 Networks
+61.192.123.93:35041#🇯🇵JP_J:COM
+49.13.133.138:52003#🇩🇪DE_Hetzner Online
+62.113.118.4:8443#🇷🇺RU_VDSina.com
+77.221.140.128:443#🇳🇱NL_Aeza International
+129.159.37.19:30488#🇺🇸US_Oracle Cloud
+176.222.55.17:443#🇳🇱NL_Hostkey
+136.244.76.71:2053#🇬🇧GB_Vultr
+129.153.91.86:3701#🇺🇸US_Oracle Cloud
+31.172.78.69:443#🇳🇱NL_Fornex Hosting S.L.
+141.11.91.67:8080#🇭🇰HK_Akile
+66.98.121.205:10796#🇺🇸US_IT7 Networks
+121.131.180.71:50012#🇰🇷KR_KT
+165.232.82.85:443#🇳🇱NL_Digital Ocean
+142.132.140.130:456#🇩🇪DE_Hetzner Online
+38.22.233.179:443#🇺🇸US_NetLab
+154.59.110.22:3000#🇳🇱NL_Cogent Communications
+65.109.217.25:22685#🇫🇮FI_Hetzner Online
+138.68.141.220:2053#🇬🇧GB_Digital Ocean
+94.131.106.73:23352#🇳🇱NL_PQ HOSTING S.R.L
+182.213.59.227:17832#🇰🇷KR_LG Uplus
+109.107.181.38:13966#🇳🇱NL_Aeza International
+185.234.64.115:2053#🇫🇷FR_Stark Industries Solutions
+38.76.145.171:443#🇺🇸US_NetLab
+185.195.69.153:2053#🇨🇭CH_Datasource
+217.195.200.52:80#🇦🇪AE_G-Core Labs SA
+103.102.231.135:2053#🇫🇷FR_OVHcloud
+209.182.237.252:8080#🇺🇸US_Hivelocity
+46.226.160.248:8443#🇳🇱NL_Aeza International
+5.144.181.77:8443#🇬🇧GB_OVHcloud
+45.144.28.167:443#🇳🇱NL_Stark Industries Solutions
+45.85.93.59:443#🇨🇭CH_Serva One
+45.95.232.68:8443#🇨🇭CH_Global Connectivity Solutions Llp
+51.195.45.137:2053#🇩🇪DE_OVHcloud
+129.146.89.30:37687#🇺🇸US_Oracle Cloud
+61.76.198.73:30066#🇰🇷KR_KT
+51.38.226.4:2053#🇫🇷FR_OVHcloud
+89.110.66.154:443#🇳🇱NL_Servers Tech Fzco
+154.37.211.104:13614#🇺🇸US_Cogent Communications
