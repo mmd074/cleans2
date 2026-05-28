@@ -15,8 +15,7 @@ def get_flag_emoji(code):
 
 # منابع مختلف
 urls = [
-    "https://github.com/clubgratis/Proxy/raw/refs/heads/main/all.txt",
-    "https://raw.githubusercontent.com/xsm-syn/Nautica/refs/heads/main/proxyip.txt",
+    "https://raw.githubusercontent.com/FoolVPN-ID/Nautica/refs/heads/main/proxyList.txt",
     # سورس‌های بیشتر اضافه کن
     # "https://example.com/list1.txt",
     # "https://example.com/list2.txt",
