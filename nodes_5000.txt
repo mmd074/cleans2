@@ -1,0 +1,60 @@
+34.168.95.100:12388#🇺🇸US_Google LLC
+141.147.152.229:23333#🇯🇵JP_Oracle Corporation
+158.101.154.245:47001#🇯🇵JP_Oracle Public Cloud
+139.162.133.162:26896#🇩🇪DE_139.162.0.0/16
+45.11.1.118:44004#🇯🇵JP_CEGRGO-DigitalVM LLC - Tokyo
+91.107.166.26:8888#🇩🇪DE_Hetzner Online GmbH
+159.65.162.90:4431#🇺🇸US_DigitalOcean
+201.149.15.14:21585#🇲🇽MX_Megacable Comunicaciones de Mexico
+45.77.25.6:27854#🇯🇵JP_Vultr Holdings
+129.152.2.127:1488#🇮🇹IT_Oracle Corporation
+107.173.250.62:444#🇺🇸US_RackNerd LLC
+217.142.230.253:587#🇯🇵JP_Oracle Corporation
+150.230.214.172:16957#🇯🇵JP_Oracle Corporation
+36.95.152.58:12137#🇮🇩ID_PT Telekomunikasi Indonesia
+47.74.254.191:8900#🇸🇬SG_Alibaba Cloud - SG
+170.64.152.77:7443#🇦🇺AU_DigitalOcean
+139.162.133.162:48805#🇩🇪DE_139.162.0.0/16
+131.186.63.89:11655#🇯🇵JP_Oracle Public Cloud
+150.230.5.34:45681#🇯🇵JP_Oracle Corporation
+139.162.102.152:7002#🇯🇵JP_Akamai Connected Cloud / Linode
+95.217.186.94:2053#🇫🇮FI_Hetzner Online GmbH
+18.185.254.189:443#🇩🇪DE_A100 ROW GmbH
+37.187.98.185:443#🇫🇷FR_OVH SAS
+91.215.153.85:443#🇧🇬BG_Friendhosting LTD
+147.45.196.240:2053#🇩🇪DE_nuxtcloud
+91.107.166.26:2053#🇩🇪DE_Hetzner Online GmbH
+217.110.20.141:443#🇩🇪DE_Colt DC
+65.109.161.254:8443#🇫🇮FI_Hetzner Online GmbH
+89.169.35.188:443#🇬🇧GB_AEZA GROUP LLC
+147.45.72.32:8443#🇸🇪SE_AEZA GROUP LLC
+3.127.55.133:443#🇩🇪DE_A100 ROW GmbH
+91.149.239.206:443#🇺🇸US_BG-NETWORK
+194.246.82.213:443#🇳🇱NL_Amsterdam
+13.250.131.37:443#🇸🇬SG_Amazon Data Services Singapore
+185.103.255.142:443#🇳🇱NL_FIRST SERVER
+45.144.48.182:8443#🇵🇱PL_Newserverlife LLC
+145.239.85.117:2053#🇵🇱PL_OVH VPS WAW
+185.82.218.224:443#🇧🇬BG_ITLDC EU2.SOF Datacenter Network
+103.90.75.41:2053#🇳🇱NL_CLODO CLOUD SERVICE CO. L.L.C
+185.234.66.91:443#🇹🇷TR_WorkTitans B.V.
+91.90.193.24:443#🇨🇭CH_Friendhosting LTD
+15.204.205.208:449#🇺🇸US_OVH US LLC
+50.228.203.26:443#🇺🇸US_Comcast Cable Communications
+65.109.12.58:2053#🇫🇮FI_Hetzner Online GmbH
+107.173.87.103:443#🇺🇸US_RackNerd LLC
+164.92.219.230:2053#🇳🇱NL_DigitalOcean
+188.132.192.195:2053#🇹🇷TR_TradeZone LLC
+18.159.105.97:443#🇩🇪DE_A100 ROW GmbH
+146.59.19.208:8443#🇵🇱PL_OVH Sp. z o. o.
+185.39.30.67:2053#🇷🇴RO_Friendhosting LTD
+31.129.49.103:443#🇷🇺RU_Selectel Network
+195.133.39.185:443#🇳🇱NL_Individual Entrepreneur Anton Levin
+92.51.36.219:2053#🇩🇪DE_Timeweb
+164.52.2.100:443#🇸🇬SG_UCUL-SG
+66.151.42.239:443#🇳🇱NL_undefined
+145.239.88.255:2053#🇵🇱PL_OVH VPS WAW
+31.58.137.94:443#🇱🇻LV_Private Customer
+2.56.221.72:81#🇪🇸ES_G-Core Labs Customer assignment
+45.133.118.153:443#🇳🇱NL_Hizakura B.V.
+23.94.213.132:27149#🇺🇸US_HostPapa
