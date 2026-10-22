@@ -8,7 +8,7 @@ def get_flag_emoji(code):
     return chr(base + ord(code[0].upper())) + chr(base + ord(code[1].upper()))
 
 urls = [
-    "https://raw.githubusercontent.com/FoolVPN-ID/Nautica/refs/heads/main/proxyList.txt",
+    "https://raw.githubusercontent.com/mmd074/Nautica/refs/heads/main/proxyList.txt",
 ]
 
 all_lines = []
